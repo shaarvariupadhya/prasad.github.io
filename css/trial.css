@@ -1,0 +1,18 @@
+h1{
+    background:#C8CDCF  ;
+    color:#60AFCA  ;
+    font-size: 200%;
+    font-style:normal;
+}
+#box{
+    background: #E0E5E7  ;
+    font-family:georgia,garamond,serif;
+    font-size:16px;
+    font-style:italic;
+    color: olive;
+}
+img{
+    border-style: solid;
+    border-width: medium;
+    border-color: orangered;
+}
